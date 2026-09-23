@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "db23b72297959e6b0a0a3503",
+  "owner": "mvdccejnx",
+  "repo": "page-de6e4dc6bcf055a1c5e02f77",
+  "title": "iNetS加速(iNetS)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "de6e4dc6bcf055a1c5e02f77",
+      "a": "iNetS加速(iNetS)",
+      "b": "2027最新官网",
+      "entity": "iNetS加速(iNetS)",
+      "brand": "iNetS加速(iNetS)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ff2386867266e90acb39030449ce9145976bd53feb8a9d3bea22476995d49939",
+      "content": {
+        "primary_entity": "iNetS加速(iNetS)",
+        "keyword1": "iNetS加速(iNetS)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，完成订阅导入与连接。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "选对套餐，按客户端指引完成订阅配置，让跨境访问更顺畅。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，iNetS加速面向跨境访问场景，提供基础版、旗舰版与团队版三档套餐。基础版适合手机与平板轻度使用，旗舰版覆盖流媒体与游戏加速需求，团队版为多设备协作预留高带宽。按设备系统选择客户端，导入订阅即可开始使用。",
+          "AI_FEATURES_INTRO": "从套餐额度、设备数量与订阅周期三个角度快速判断。",
+          "AI_FEATURES_TITLE": "选择套餐看三点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备，适合个人手机与平板日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB、5台设备，含IPLC专线优化与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB、20台设备，适合多人协作与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备定档",
+          "AI_FEATURE_TITLE_3": "按周期订阅",
+          "AI_GUIDE_INTRO": "先确定用量与设备数，再对照客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "订阅配置指引",
+          "AI_HERO_INTRO": "iNetS加速提供基础版、旗舰版与团队版三档订阅，覆盖手机、平板、电脑等常见设备。按流量需求与在线设备数选择套餐，依据所用系统的客户端文档导入订阅，即可在跨境访问、流媒体与游戏场景中保持稳定连接。",
+          "AI_HERO_SUBTITLE": "多设备加速，选对套餐更省心",
+          "AI_HIGHLIGHT_1": "每月100GB起，三档灵活选择",
+          "AI_HIGHLIGHT_2": "3至20台设备按需匹配",
+          "AI_HIGHLIGHT_3": "年付套餐低至月付八成",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年，按设备数与流量需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比与价格",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，在基础版、旗舰版、团队版中确定档位。",
+          "AI_STEP_TEXT_2": "确认操作系统版本与设备数量是否落在所选套餐的适配范围内。",
+          "AI_STEP_TEXT_3": "参照对应客户端的订阅导入文档，完成连接信息填写与节点选择。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "iNetS加速套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "iNetS加速基础版适合哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线，适合手机、平板和笔记本等轻度使用场景，日常浏览与基础流媒体访问均可覆盖。",
+          "AI_FAQ_QUESTION_2": "旗舰版与基础版的主要差别是什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月300GB流量，支持5台设备同时在线，包含IPLC专线游戏加速优化和7x24优先工单支持，线路节点池也比基础版更丰富。",
+          "AI_FAQ_QUESTION_3": "团队版可以给多台设备使用吗？",
+          "AI_FAQ_ANSWER_3": "团队版每月1000GB流量，支持20台设备同时在线，并提供VIP专属高带宽节点与企业定制路由，适合多人协作或小型团队场景。",
+          "AI_FAQ_QUESTION_4": "年付和月付在费用上有什么区别？",
+          "AI_FAQ_ANSWER_4": "基础版月付15元、年付150元；旗舰版月付35元、年付350元；团队版月付85元、年付850元。长期使用选择年付更划算。",
+          "AI_FAQ_QUESTION_5": "如何为不同设备导入订阅配置？",
+          "AI_FAQ_ANSWER_5": "选择对应系统的客户端后，参考该客户端的配置文档，将订阅信息导入并启用连接。不同平台客户端界面存在差异，按文档逐步操作即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--xsus-3v4gm16f.com",
+    "host": "xn--xsus-3v4gm16f.com"
+  },
+  "file_hashes": {
+    "index.html": "b49660dda35730b19b2eb32f16b07d6759dc3deb7b8238121c1570916a203511",
+    "sitemap.xml": "77763a6486c4acc9a55b605a349e88271ca317f0540bc81ca864dd79a450c082",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6798bafe02b733d88f967fa825689c7fb79676c69d5e03b2d466a92df3986d21",
+    "robots.txt": "dc383cbc77554883c59fb73401cc43652a3c9d3d70f3a3c3e62659f8f721c09a",
+    "7f12bb1bd5760234507ecfff61548a14.txt": "1fb31c499297d911679fa8ad5e844c9ccf790869caafd653e0fe0ad2b40d7c09"
+  },
+  "revision": "149fdf89facc30f2b818a22e83058587b75cf1b3c2e988d89a370874599d2bd0"
+}
